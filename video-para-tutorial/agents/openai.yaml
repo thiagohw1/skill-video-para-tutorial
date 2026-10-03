@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vídeo para tutorial"
+  short_description: "Crie tutoriais com capturas anotadas de um vídeo"
+  default_prompt: "Use $video-para-tutorial para transformar o vídeo anexado em uma postagem com capturas anotadas e conteúdo separado por etapas, pronta para importar como Passo a passo no macacapp."
